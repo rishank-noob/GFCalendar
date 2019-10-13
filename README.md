@@ -1,6 +1,6 @@
 # GFCalendar
 
-
+A widget for IOS Calendar.
 
 ## Screenshot
 
